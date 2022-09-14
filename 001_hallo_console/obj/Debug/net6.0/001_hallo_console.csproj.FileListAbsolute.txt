@@ -1,0 +1,15 @@
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\bin\Debug\net6.0\001_hallo_console.exe
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\bin\Debug\net6.0\001_hallo_console.deps.json
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\bin\Debug\net6.0\001_hallo_console.runtimeconfig.json
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\bin\Debug\net6.0\001_hallo_console.dll
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\bin\Debug\net6.0\001_hallo_console.pdb
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.csproj.AssemblyReference.cache
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.AssemblyInfoInputs.cache
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.AssemblyInfo.cs
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.csproj.CoreCompileInputs.cache
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.dll
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\refint\001_hallo_console.dll
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.pdb
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\001_hallo_console.genruntimeconfig.cache
+C:\Users\raven\Desktop\учеба\c#\001_hallo_console\obj\Debug\net6.0\ref\001_hallo_console.dll
